@@ -28,7 +28,7 @@ distributes the CLI releases.**
 - **Everything is optional** – components are switched on and off from a YAML configuration file; Bifröst shows only what you enable.
 - **Portal, API and CLI** – the same operations through the web portal, the HTTP API (`/v1`) and the CLI.
 
-Bifröst grew inside [gravity](https://github.com/acalvoa/bifrost) but is **not tied to it**: it is meant to run on any Kubernetes
+Bifröst grew inside gravity, a self-hosted infrastructure stack, but is **not tied to it**: it is meant to run on any Kubernetes
 cluster, on any server or cloud (developed and tested on K3s).
 
 > **Status:** under active development. Expect rough edges and breaking changes.
