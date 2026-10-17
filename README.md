@@ -33,8 +33,6 @@ cluster, on any server or cloud (developed and tested on K3s).
 
 > **Status:** under active development. Expect rough edges and breaking changes.
 
-> **No release has been published yet** — the install commands below will return 404 until the first one (v0.1.0) is out.
-
 ## Requirements (server side)
 
 - Kubernetes 1.31+ (structured authentication configuration is used to trust Bifröst-issued tokens).
